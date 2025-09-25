@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8e687ca-cd46-4894-a4fb-919cf11ee1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/emersonsdossantos/javalearning/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/emersonsdossantos/javalearning/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e8e687ca-cd46-4894-a4fb-919cf11ee1fd" name="Changes" comment="feat: adiciona dependencias: JPA Hibernete, JSF" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +55,15 @@
       <option name="presentableId" value="Default" />
       <updated>1758760414830</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: adiciona dependencias: JPA Hibernete, JSF">
+      <option name="closed" value="true" />
+      <created>1758766174707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758766174707</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: adiciona dependencias: JPA Hibernete, JSF" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adiciona dependencias: JPA Hibernete, JSF" />
   </component>
 </project>
