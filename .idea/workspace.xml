@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8e687ca-cd46-4894-a4fb-919cf11ee1fd" name="Changes" comment="feat: adiciona dependencias: JPA Hibernete, JSF" />
+    <list default="true" id="e8e687ca-cd46-4894-a4fb-919cf11ee1fd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +63,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758766174707</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: adiciona dependencias: JPA Hibernete, JSF">
+      <option name="closed" value="true" />
+      <created>1758766288810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758766288810</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
